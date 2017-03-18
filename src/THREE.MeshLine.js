@@ -2,7 +2,7 @@
 
 "use strict";
 
-var root = this
+var root = this || self
 
 var has_require = typeof require !== 'undefined'
 
